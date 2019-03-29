@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.12731749, g: 0.13414757, b: 0.1210787, a: 1}
+  m_IndirectSpecularColor: {r: 0.12732536, g: 0.13415338, b: 0.121077195, a: 1}
 --- !u!157 &3
 LightmapSettings:
   m_ObjectHideFlags: 0
@@ -1356,11 +1356,11 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 11498812, guid: 9cb1e183d39ba432db5c583c4548819c, type: 2}
       propertyPath: blueprintId
-      value: wrld_fb7a6930-7b6e-4047-8ddd-391851b8c260
+      value: 
       objectReference: {fileID: 0}
     - target: {fileID: 11498812, guid: 9cb1e183d39ba432db5c583c4548819c, type: 2}
       propertyPath: contentType
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 11473296, guid: 9cb1e183d39ba432db5c583c4548819c, type: 2}
       propertyPath: layerCollisionArr.Array.data[0]
