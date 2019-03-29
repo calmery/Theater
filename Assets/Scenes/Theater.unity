@@ -8674,6 +8674,114 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 7d03c38d41742487bbe0985a5b6ec667, type: 2}
   m_IsPrefabParent: 0
+--- !u!1 &1580280703 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 1651772765447002, guid: 7d03c38d41742487bbe0985a5b6ec667,
+    type: 2}
+  m_PrefabInternal: {fileID: 1580280702}
+--- !u!1 &1580280704 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 1873303875478716, guid: 7d03c38d41742487bbe0985a5b6ec667,
+    type: 2}
+  m_PrefabInternal: {fileID: 1580280702}
+--- !u!1 &1580280705 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 1615154224971556, guid: 7d03c38d41742487bbe0985a5b6ec667,
+    type: 2}
+  m_PrefabInternal: {fileID: 1580280702}
+--- !u!1 &1580280706 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 1167899468400946, guid: 7d03c38d41742487bbe0985a5b6ec667,
+    type: 2}
+  m_PrefabInternal: {fileID: 1580280702}
+--- !u!1 &1580280707 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 1250290130286018, guid: 7d03c38d41742487bbe0985a5b6ec667,
+    type: 2}
+  m_PrefabInternal: {fileID: 1580280702}
+--- !u!1 &1580280708 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 1883142183269354, guid: 7d03c38d41742487bbe0985a5b6ec667,
+    type: 2}
+  m_PrefabInternal: {fileID: 1580280702}
+--- !u!114 &1580280709
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1580280703}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 762633, guid: f78c4655b33cb5741983dc02e08899cf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SynchronizePhysics: 1
+  AllowCollisionTransfer: 1
+--- !u!114 &1580280710
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1580280704}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 762633, guid: f78c4655b33cb5741983dc02e08899cf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SynchronizePhysics: 1
+  AllowCollisionTransfer: 1
+--- !u!114 &1580280711
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1580280705}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 762633, guid: f78c4655b33cb5741983dc02e08899cf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SynchronizePhysics: 1
+  AllowCollisionTransfer: 1
+--- !u!114 &1580280712
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1580280706}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 762633, guid: f78c4655b33cb5741983dc02e08899cf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SynchronizePhysics: 1
+  AllowCollisionTransfer: 1
+--- !u!114 &1580280713
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1580280707}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 762633, guid: f78c4655b33cb5741983dc02e08899cf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SynchronizePhysics: 1
+  AllowCollisionTransfer: 1
+--- !u!114 &1580280714
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1580280708}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 762633, guid: f78c4655b33cb5741983dc02e08899cf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SynchronizePhysics: 1
+  AllowCollisionTransfer: 1
 --- !u!1 &1608497822 stripped
 GameObject:
   m_PrefabParentObject: {fileID: 143254, guid: c69cd4a2c56f32148888dab01592a615, type: 2}
