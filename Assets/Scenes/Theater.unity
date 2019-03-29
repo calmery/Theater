@@ -5299,7 +5299,7 @@ ReflectionProbe:
   m_TimeSlicingMode: 0
   m_Resolution: 2048
   m_UpdateFrequency: 0
-  m_BoxSize: {x: 8, y: 0.005, z: 4.65}
+  m_BoxSize: {x: 8, y: 8, z: 4.65}
   m_BoxOffset: {x: 0, y: 0, z: 0}
   m_NearClip: 0.3
   m_FarClip: 1000
@@ -7999,7 +7999,7 @@ MonoBehaviour:
   - Source: 1
     VideoClip: {fileID: 0}
     PlaybackSpeed: 1
-    URL: https://www.youtube.com/watch?v=5V7ZUZVo0wg
+    URL: https://www.youtube.com/watch?v=BjMdg4fB-7g
     SyncType: 0
     SyncMinutes: 0
 --- !u!1 &1399821451
